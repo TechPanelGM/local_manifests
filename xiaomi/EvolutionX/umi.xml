@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Repository: TechPanelGM/android_device_xiaomi_umi -->
+    <project path="device/xiaomi/umi" name="TechPanelGM/android_device_xiaomi_umi" remote="github" revision="evo-udc" />
+
+    <!-- Repository: TechPanelGM/android_vendor_xiaomi_umi -->
+    <project path="vendor/xiaomi/umi" name="TechPanelGM/android_vendor_xiaomi_umi" remote="github" revision="lineage-21" />
+
+    <!-- Repository: TechPanelGM/android_device_xiaomi_sm8250-common -->
+    <project path="device/xiaomi/sm8250-common" name="TechPanelGM/android_device_xiaomi_sm8250-common" remote="github" revision="lineage-21" />
+
+    <!-- Repository: TechPanelGM/android_vendor_xiaomi_sm8250-common -->
+    <project path="vendor/xiaomi/sm8250-common" name="TechPanelGM/android_vendor_xiaomi_sm8250-common" remote="github" revision="lineage-21" />
+
+    <!-- Repository: TechPanelGM/vendor_xiaomi_MiuiCamera -->
+    <project path="vendor/xiaomi/camera" name="TechPanelGM/vendor_xiaomi_MiuiCamera" remote="github" revision="14" />
+
+    <!-- Repository: Luffitys/android_kernel_xiaomi_sm8250-MagicTime -->
+    <project path="kernel/xiaomi/sm8250" name="Luffitys/android_kernel_xiaomi_sm8250-MagicTime" remote="github" revision="magictime-new" />
+</manifest>
+
